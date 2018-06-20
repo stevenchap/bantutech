@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Bantu Tech - Git 🚀
 
-You can use the [editor on GitHub](https://github.com/stevenchap/bantutech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bantu Tech is a Cyber Security platform. This repo will be used to host some of our community projects and development work. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Featured Posts
+Some of our work includes:
+- ### Hadoop & the Pi: A tutorial on running a Hadoop instance on a microcomputer:
+[Link](https://www.bantutech.com/networking/2016/9/4/bantu-tech-tutorial-getting-hadoop-running-on-a-raspberry-pi-microcomputer)
 
 ### Markdown
 
